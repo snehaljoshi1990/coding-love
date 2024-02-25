@@ -1,0 +1,31 @@
+Algorithm: A sequence of steps to solve a specific problem or perform a task.
+
+Variable: A named storage location in memory used to store data values that can be changed during program execution.
+
+Data Type: A classification of data which tells the compiler or interpreter how the programmer intends to use the data. Common data types include integers, floating-point numbers, strings, and booleans.
+
+Function: A named block of code that performs a specific task. Functions can take inputs, called parameters, and can return outputs.
+
+Conditional Statement: A programming construct that performs different actions depending on whether a condition is true or false. Examples include if statements, else statements, and elif (else if) statements.
+
+Loop: A programming construct that repeats a block of code multiple times until a certain condition is met. Common types of loops include for loops and while loops.
+
+Array/List: A data structure that can hold multiple values of the same type. Arrays/lists allow for efficient storage and manipulation of data.
+
+String: A sequence of characters enclosed within quotation marks. Strings are used to represent text data in programming.
+
+Comment: A non-executable piece of text within a program that provides information or explanations about the code. Comments are ignored by the compiler or interpreter.
+
+Variable Scope: The region of a program where a variable is accessible. Scope determines where in the program a variable can be used.
+
+Debugging: The process of finding and fixing errors or bugs in a program.
+
+Syntax: The set of rules that define the combinations of symbols that are considered to be correctly structured programs in a given programming language.
+
+Compilation: The process of translating code written in a high-level programming language into machine code that can be executed by a computer.
+
+Interpretation: The process of executing code written in a high-level programming language by translating it into machine code line by line during runtime.
+
+Object-Oriented Programming (OOP): A programming paradigm based on the concept of "objects," which can contain data in the form of fields and code in the form of procedures, often referred to as methods.
+
+These are just a few basic coding terminologies to get you started. There are many more terms and concepts in the world of programming!
